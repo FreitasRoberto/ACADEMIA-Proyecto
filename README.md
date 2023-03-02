@@ -1,2 +1,4 @@
 # ACADEMIA-Proyecto
-Proyecto Academia
+HTML5 
+CSS3
+JavaScript
