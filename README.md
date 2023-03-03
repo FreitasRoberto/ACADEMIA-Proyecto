@@ -1,4 +1,4 @@
-# ACADEMIA-Proyecto
-HTML5 
-CSS3
-JavaScript
+## Built with
+* HTML5
+* CSS3
+* JavaScript
